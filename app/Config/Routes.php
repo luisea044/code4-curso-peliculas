@@ -28,4 +28,5 @@ use CodeIgniter\Router\RouteCollection;
 // $routes->post('pelicula/update/(:num)', 'Pelicula::update/$1');
 // $routes->post('pelicula/delete/(:num)', 'Pelicula::delete/$1');
 
-$routes->presenter('pelicula');
+//$routes->presenter('pelicula');
+$routes->presenter('categoria');

@@ -10,7 +10,7 @@
 <body>
     <h1>Lista de Películas</h1>
 
-    </form>
+    
     <form action="<?= site_url('pelicula/new') ?>" method="get" style="display:inline;">
         <button type="submit">Crear</button>
     </form>
